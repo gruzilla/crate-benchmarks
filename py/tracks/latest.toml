@@ -27,7 +27,7 @@ full = [
     "../specs/delete_single.py",
     "../specs/delete_bulk.py",
     "../specs/any.py",
-    "../specs/count.toml",
+    "../specs/select/count.toml",
     "../specs/generated_columns.toml",
     "../specs/create_partitions.py",
     "../specs/information_schema.py",
